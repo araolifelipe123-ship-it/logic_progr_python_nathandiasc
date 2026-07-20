@@ -38,4 +38,3 @@ def fazer_bolo(tipo_bolo):
 
 
 meu_bolo = fazer_bolo('assar o bolo pelo tempo indicado na receita')
-print(f'Meu bolo está: {meu_bolo}')

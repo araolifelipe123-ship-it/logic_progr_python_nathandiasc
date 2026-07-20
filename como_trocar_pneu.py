@@ -40,3 +40,4 @@ def trocar_pneu(tipo_pneu):
 
 meu_pneu = trocar_pneu('colocar o estepe corretamente no veículo')
 print(f'Meu pneu está: {meu_pneu}')
+
